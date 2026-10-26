@@ -1,2 +1,6 @@
 target/
 .stellar/
+
+# Local preview bundles; source lives in apps/.
+starlog-preview-v*.zip
+.starlog-preview-deploy-v*/
